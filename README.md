@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/alok-kumar-4659b2188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/_alok__k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alok__k_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@alokamit161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alokamit161" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alok_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alok_16" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/alokamit161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokamit161" height="30" width="40" /></a>
 <a href="https://discord.gg/#6860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6860" height="30" width="40" /></a>
 </p>
