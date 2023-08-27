@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A Backend developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumar167&label=Profile%20views&color=0e75b6&style=flat" alt="alokkumar167" /> </p>
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **BackEnd Development**
+- 🤝 I’m looking for help with **Frontend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
